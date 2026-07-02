@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Work\\Graph\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|C:\\Work\\Graph\\Graph\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|solutionrelative:Graph\\BST.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|C:\\Work\\Graph\\Graph\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|solutionrelative:Graph\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|C:\\Work\\Graph\\Graph\\BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|solutionrelative:Graph\\BFS.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|C:\\Work\\Graph\\Graph\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|solutionrelative:Graph\\Graph.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|C:\\Work\\Graph\\Graph\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B87ECCA6-1E61-45AE-8342-60F61AF2C35F}|Graph\\Graph.vcxproj|solutionrelative:Graph\\Tree.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +26,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "BST.cpp",
+              "DocumentMoniker": "C:\\Work\\Graph\\Graph\\BST.cpp",
+              "RelativeDocumentMoniker": "Graph\\BST.cpp",
+              "ToolTip": "C:\\Work\\Graph\\Graph\\BST.cpp",
+              "RelativeToolTip": "Graph\\BST.cpp",
+              "ViewState": "AgIAAOsAAAAAAAAAAAAAAAgBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-07-02T00:10:36.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Tree.cpp",
               "DocumentMoniker": "C:\\Work\\Graph\\Graph\\Tree.cpp",
               "RelativeDocumentMoniker": "Graph\\Tree.cpp",
               "ToolTip": "C:\\Work\\Graph\\Graph\\Tree.cpp",
               "RelativeToolTip": "Graph\\Tree.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGsAAAAAAAAAAAAAAGsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-24T02:08:15.491Z"
+              "WhenOpened": "2026-06-24T02:08:15.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BFS.cpp",
               "DocumentMoniker": "C:\\Work\\Graph\\Graph\\BFS.cpp",
               "RelativeDocumentMoniker": "Graph\\BFS.cpp",
               "ToolTip": "C:\\Work\\Graph\\Graph\\BFS.cpp",
               "RelativeToolTip": "Graph\\BFS.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwHgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-06-24T02:08:05.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Graph.cpp",
               "DocumentMoniker": "C:\\Work\\Graph\\Graph\\Graph.cpp",
               "RelativeDocumentMoniker": "Graph\\Graph.cpp",
               "ToolTip": "C:\\Work\\Graph\\Graph\\Graph.cpp",
               "RelativeToolTip": "Graph\\Graph.cpp",
-              "ViewState": "AgIAAFQAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAAACIBAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-06-23T00:08:59.192Z"
+              "WhenOpened": "2026-06-23T00:08:59.192Z",
+              "EditorCaption": ""
             }
           ]
         }

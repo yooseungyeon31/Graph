@@ -124,6 +124,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="BFS.cpp" />
+    <ClCompile Include="BST.cpp" />
     <ClCompile Include="Graph.cpp" />
     <ClCompile Include="Tree.cpp" />
   </ItemGroup>
